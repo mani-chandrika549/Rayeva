@@ -1,0 +1,7 @@
+{
+  "name": "Rayeva AI - Sustainable Commerce Platform",
+  "description": "AI-powered platform for sustainable commerce featuring auto-categorization, B2B proposal generation, and impact reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
