@@ -1,5 +1,7 @@
 # Rayeva AI – Sustainable Commerce Platform
 
+Live Link: https://rayeva-1.onrender.com
+
 ## Architecture Overview
 
 This application is built as a full-stack system using **Express** (Backend) and **React** (Frontend), integrated with **Gemini AI** for intelligent automation.
